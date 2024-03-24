@@ -1,6 +1,6 @@
 public class CashbackOperation extends Operation{
     private int cashbackAmount;
-
+// new comment
     public CashbackOperation(int idOfOperation, int idOfCust, String nameOfOperation, int sum, int cashbackAmount){
         super(idOfOperation,idOfCust, nameOfOperation, sum);
         this.cashbackAmount = cashbackAmount;

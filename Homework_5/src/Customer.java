@@ -1,6 +1,7 @@
 public class Customer {
     // объявим поля
     private int id;
+    // new comment
     private String nameOfCust;
     private int age;
 
