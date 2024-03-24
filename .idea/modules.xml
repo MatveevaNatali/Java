@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Homework_1,2/Homework_1,2.iml" filepath="$PROJECT_DIR$/Homework_1,2/Homework_1,2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework_3/Homework_3.iml" filepath="$PROJECT_DIR$/Homework_3/Homework_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework_4/Homework_4.iml" filepath="$PROJECT_DIR$/Homework_4/Homework_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework_5/Homework_5.iml" filepath="$PROJECT_DIR$/Homework_5/Homework_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework_6/Homework_6.iml" filepath="$PROJECT_DIR$/Homework_6/Homework_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework_7/Homework_7.iml" filepath="$PROJECT_DIR$/Homework_7/Homework_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework_8/Homework_8.iml" filepath="$PROJECT_DIR$/Homework_8/Homework_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework_9/Homework_9.iml" filepath="$PROJECT_DIR$/Homework_9/Homework_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_homeworks.iml" filepath="$PROJECT_DIR$/.idea/Java_homeworks.iml" />
+    </modules>
+  </component>
+</project>
